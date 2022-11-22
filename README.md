@@ -36,9 +36,10 @@
     </a>
   </br>
 <h2>📊 My Github Stats</h2>
-<img align="right" alt="Coding" width="350" src="https://octodex.github.com/images/jetpacktocat.png">
+<img align="right" alt="Coding" width="250" src="https://octodex.github.com/images/jetpacktocat.png">
 <img src = "https://github-readme-stats.vercel.app/api?username=Kavindu-J22&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 <a href="#"><img width="25%" height="25%"/></a>
+
 <a href="https://github.com/Kavindu-J22/github-readme-stats"><img alt="Kavindu Jayasinghe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindu-J22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <a href="https://github.com/Kavindu-J22/github-readme-activity-graph"><img alt="Kavindu Jayasinghe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kavindu-J22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
