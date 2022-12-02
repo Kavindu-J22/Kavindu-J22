@@ -40,4 +40,5 @@
 <a href="#"><img width="25%" height="25%"/></a>
 <img align="right" alt="Coding" width="270" src="https://octodex.github.com/images/jetpacktocat.png">
 <a href="https://github.com/Kavindu-J22/github-readme-stats"><img alt="Kavindu Jayasinghe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindu-J22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a><br/>
-<a href="https://github.com/Kavindu-J22/github-readme-activity-graph"><img alt="Kavindu Jayasinghe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kavindu-J22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+[![Kevindu's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kavindu-J22&theme=merko)](https://github.com/Kavindu-J22/github-readme-activity-graph)
