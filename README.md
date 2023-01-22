@@ -38,7 +38,7 @@
     </td>
     <td style="border: 0";>
       <p>
-        💻 A high quality and guaranteed output is provided as required by the client<a/>.
+        💻 A high quality and guaranteed output is provided as required by the client. I will be engaged in these activities to the best of my ability.<a/>.
       </p>
       <p>
         🌟 Visit my <a href="https:#">portfolio</a> to learn more about me and hire me.
