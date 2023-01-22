@@ -1,22 +1,22 @@
-[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)]
-<h1 align="center">Wellcome to My Profile..!🌴</h1>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kavindu Jayasinghe</h1>
+[![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)]
+<h1 align="center">🖥 Wellcome to My Profile..!⚙</h1>
+<h1 align="center">I'm Kavindu Jayasinghe..<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">FullStack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kavindu-J22&label=Profile%20views&color=0e75b6&style=flat" alt="Kavindu-J22" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kavindu" target="blank"><img src="https://img.shields.io/twitter/follow/kavindu?logo=twitter&style=for-the-badge" alt="kavindu" /></a> </p>
 
-- 🌱 I’m currently learning **Responsive web designing**
+- 💡 I’m currently learning **Responsive web designing**
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 💬 Ask me about **MERN , Android , Java , Python , R**
+- 💬 Ask me about **MERN , Android , Java , Python , Js , R**
 
 - 📫 How to reach me **kavindujayasinghe2002122@gmail.com**
 
-- ⚡ Fun fact **Sing And Travel 🌱**
+- ⚡ Fun fact **Sing And Travel 🍃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
