@@ -38,7 +38,7 @@
 <br>
 
 
-## Skills & Experience !!:grinning:
+## Skills & Experience 🔑:
 
 🔵<strong> Programming Languages</strong>
 
@@ -48,6 +48,7 @@
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/scss-%231572B6.svg?style=for-the-badge&logo=scss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 <br>
@@ -56,6 +57,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-%23239120.svg?style=for-the-badge&logo=R&logoColor=white)
 
 🔵<strong> Databases</strong>
 
@@ -100,7 +102,7 @@
 🔵<strong> Tools</strong>
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%2366595C.svg?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 <br>
@@ -110,7 +112,7 @@
 🔵<strong> Design Platforms</strong>
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%EC1C24.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 <br>
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
@@ -133,6 +135,13 @@
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 <br>
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+🔵<strong> project management tools</strong>
+
+![Kanban Board ](https://img.shields.io/badge/KanbanBoard-3DDC84?style=for-the-badge&logo=KanbanBoard&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-294172?style=for-the-badge&logo=Jira&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
