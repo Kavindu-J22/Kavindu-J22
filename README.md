@@ -68,7 +68,7 @@
 <br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-🔵<strong> Hosting</strong>
+🔵<strong> Hosting and Cloud-based Technologies</strong>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -78,6 +78,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 <br>
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%231572B6.svg?style=for-the-badge&logo=Cloudinary&logoColor=white)
 
 🔵<strong> Frameworks</strong>
 
@@ -148,7 +149,7 @@
     </td>
     <td style="border: 0";>
       <p>
-        💻 A high quality and guaranteed output is provided as required by the client. I will be engaged in these activities to the best of my ability.<a/>.
+        💻 A high quality and guaranteed output is provided as required by the client. I will be engaged in these activities to the best of my ability.( With SSL and SEO )<a/>.
       </p>
       <p>
         🌟 Visit my <a href="https:#">portfolio</a> to learn more about me and hire me.
