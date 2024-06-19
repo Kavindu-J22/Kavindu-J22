@@ -2,7 +2,7 @@
 <h1 align="center">🖥 Wellcome to My Profile..!⚙</h1>
 <h1 align="center">I'm Kavindu Jayasinghe..<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">FullStack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/1Q7Z.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kavindu-J22&label=Profile%20views&color=0e75b6&style=flat" alt="Kavindu-J22" /> </p>
 
